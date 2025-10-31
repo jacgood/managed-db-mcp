@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "managed-db": {
+      "command": "python",
+      "args": [
+        "/Users/jacobgood/projects/managed-db/services/mcp-server/server.py"
+      ],
+      "env": {
+        "MANAGED_DB_API_URL": "http://localhost:8080/api"
+      }
+    }
+  }
+}

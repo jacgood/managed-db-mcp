@@ -1,0 +1,4 @@
+# Install MCP SDK from git until it's published to PyPI
+# pip install git+https://github.com/anthropics/python-mcp-sdk.git
+mcp
+httpx>=0.26.0
